@@ -1,4 +1,4 @@
-<h1>Simple Flask CD Pipeline</h1>
+<h1>Flask CD Pipeline Simples</h1>
 
 <p>Este repositório contém os passos para configurar uma pipeline de Integração Contínua (CI) e Entrega Contínua (CD) para um aplicativo Flask usando GitHub Actions e DockerHub.</p>
 
